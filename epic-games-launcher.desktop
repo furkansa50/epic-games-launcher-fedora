@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Epic Games Launcher
+Comment=Download, install, and play games from the Epic Games Store
+Exec=/usr/bin/EpicGamesLauncher %u
+TryExec=/usr/bin/EpicGamesLauncher
+Icon=EpicGamesLauncher
+Terminal=false
+Categories=Game;
+Keywords=Epic;Games;Launcher;
+StartupNotify=true
+StartupWMClass=EpicGamesLauncher
+MimeType=x-scheme-handler/com.epicgames.launcher;
